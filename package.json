@@ -63,7 +63,8 @@
     "url-loader": "^0.5.9",
     "webpack": "^3.9.1",
     "webpack-dashboard": "^0.4.0",
-    "webpack-dev-server": "^2.9.5"
+    "webpack-dev-server": "^2.9.5",
+    "prop-types": "15.6.0"
   },
   "dependencies": {
     "react": "^16.1.0",
